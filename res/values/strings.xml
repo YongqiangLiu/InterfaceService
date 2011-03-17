@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, InterfaceTracker!</string>
+    <string name="app_name">IntfService</string>
+    <string name="start_service">Stop Service</string>
+    <string name="stop_service">Start Service</string>
+    <string name="start_wifi">Stop WiFi</string>
+    <string name="stop_wifi">Start WiFi</string>
+    <string name="start_3G">Stop 3G</string>
+    <string name="stop_3G">Start 3G</string>
+    <string name="start_wifiTracker">Stop WiFi Tracker</string>
+    <string name="stop_wifiTracker">Start WiFi Tracker</string>
+    <string name="start_3GTracker">Stop 3G Tracker</string>
+    <string name="stop_3GTracker">Start 3G Tracker</string>
+    
+</resources>
